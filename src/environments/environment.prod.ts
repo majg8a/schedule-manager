@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiUrl: 'https://mini-api-schedule-manager.herokuapp.com/',
 };
